@@ -16,7 +16,7 @@ const BookMeeting = () => {
             Let’s have a call and find the best solution for your product.
           </p>
           <RoundedButton
-            url="https://calendly.com/jurgensiegel/15min"
+            url=""
             text="Book Meeting"
             style="md:w-[170px] w-[120px] md:h-[44px] h-[36px] bg-brand-secondary md:text-[16px] text-[14px]"
           />

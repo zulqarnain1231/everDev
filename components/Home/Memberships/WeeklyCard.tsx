@@ -27,7 +27,7 @@ const WeeklyCard = () => {
             Paid weekly
           </p>
         </div>
-        <RoundedButton text="Get Started" url='https://buy.stripe.com/5kAbII9W156Z8b6dQQ' />
+        <RoundedButton text="Get Started" url='' />
 
       </div>
 

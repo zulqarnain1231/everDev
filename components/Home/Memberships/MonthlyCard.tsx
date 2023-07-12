@@ -29,10 +29,10 @@ const MonthlyCard = () => {
         <RoundedButton
           text="Get Started"
           style="bg-brand-tertiary h-[60px] w-[280px]"
-          url="https://buy.stripe.com/6oEeUUd8dczraje4gi"
+          url=""
         />
         <div className="w-full flex items-center justify-between">
-          <a href="https://calendly.com/jurgensiegel/15min" target="_blank" className="font-primary font-[700] text-black-off md:text-[16px] text-[15px] underline">
+          <a href="" target="_blank" className="font-primary font-[700] text-black-off md:text-[16px] text-[15px] underline">
             Book a call
           </a>
           <p className="font-primary font-[700] text-black-off md:text-[16px] text-[15px]">

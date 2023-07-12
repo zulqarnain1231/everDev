@@ -30,10 +30,10 @@ const QuarterlyCard = () => {
         <RoundedButton
           text="Get Started"
           style="bg-[#F04636] h-[60px] w-[280px]"
-          url="https://buy.stripe.com/00g144echfLD3UQfYZ"
+          url=""
         />
         <div className="w-full flex items-center justify-between">
-          <a href="https://calendly.com/jurgensiegel/15min" target="_blank" className="font-primary font-[700] text-black-off md:text-[16px] text-[15px] underline">
+          <a href="" target="_blank" className="font-primary font-[700] text-black-off md:text-[16px] text-[15px] underline">
             Book a call
           </a>
           <p className="font-primary font-[700] text-black-off md:text-[16px] text-[15px]">

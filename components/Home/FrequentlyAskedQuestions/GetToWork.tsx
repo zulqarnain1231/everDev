@@ -14,7 +14,7 @@ const GetToWork = () => {
           monthly fee.
         </p>
         <RoundedButton
-          url="https://calendly.com/jurgensiegel/15min"
+          url=""
           text="Schedule meeting"
           style="w-[200px] h-[48px] bg-black-main"
         />
